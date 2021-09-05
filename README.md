@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pintukumarsingh29
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, Django 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @no
+- I Love Designing Web pages and Developing Web Applications
 
 <!---
 pintukumarsingh29/pintukumarsingh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
